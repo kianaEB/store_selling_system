@@ -1,0 +1,30 @@
+				 LIST OF PRODUCTS 
+ID:          1
+Name:        moz
+Price:       50
+Brand:       mozy
+Expire date: 2002/09
+ID:          2
+Name:        rita
+Price:       56
+Brand:       ritay
+Expire date: 2007/09
+----------------------------------------------------------
+				 LIST OF CUSTOMERS 
+ID:           1
+Name:         kiana
+Phone Number: 0987654
+Address:      rasht
+Balance:      2950
+History:      
+ID:           2
+Name:         nima
+Phone Number: 0987654
+Address:      tehran
+Balance:      5000
+History:      
+----------------------------------------------------------
+				 LIST OF STOCK 
+ID:       2
+Quantity: 6
+----------------------------------------------------------
